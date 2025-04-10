@@ -15,7 +15,7 @@ When a request is made to this service, it will return a response containing det
 
 ## Endpoints
 
-### `/echo`
+### `/echo` (Incoming)
 
 Returns all header information and request details from the client.
 
